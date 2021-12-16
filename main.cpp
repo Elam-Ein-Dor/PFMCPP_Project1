@@ -102,7 +102,7 @@ fire.dance();
 amp.addGain();
 //  action 2: the amplifier filters the high end
 amp.highCutFilterOn();
-//  action 3: the amplifier bypasses
+//  action 3: the amplifier turns the bypass on
 amp.bypassOn();
 
 //  7)
