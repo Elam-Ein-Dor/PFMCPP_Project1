@@ -52,85 +52,94 @@ arm.rotateCounterClockwise();           // 4) demonstrates CamelCase
 
 
 //  1)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
+//  Noun: dog
+//  action 1: the dog barks
+dog.bark();
+//  action 2: the dog sleeps
+dog.sleep();
+//  action 3: the dog runs
+dog.run();
 
 //  2)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
+//  Noun: phone
+//  action 1: the phone rings
+phone.ring();
+//  action 2: the phone vibrates
+phone.vibrate();
+//  action 3: the phone glows
+phone.glow();
 
 //  3)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
+//  Noun: piano
+//  action 1: the piano plays a note
+piano.playNote();
+//  action 2: the piano silences a note
+piano.muteNote();
+//  action 3: the piano lets a note ring out
+piano.openNote();
 
 //  4)
-//  Noun:
-//  action 1:
+//  Noun: guitarPedal
+//  action 1: the guitarPedal distorts
+guitarPedal.distort();
+//  action 2: the guitarPedal adds reverb
+guitarPedal.addReverb();
+//  action 3: the guitarPedal controls the volume
+guitarPedal.volControl();
 
-//  action 2:
-
-//  action 3:
-
-//  5)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
+//  5) 
+//  Noun: fire
+//  action 1: the fire burns
+fire.burn();
+//  action 2: the fire illuminates
+fire.illum();
+//  action 3: the fire dances
+fire.dance();
 
 //  6)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
+//  Noun: amplifier
+//  action 1: the amplifier adds gain
+amp.addGain();
+//  action 2: the amplifier filters the high end
+amp.highCutFilterOn();
+//  action 3: the amplifier bypasses
+amp.bypassOn();
 
 //  7)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
+//  Noun: programmer
+//  action 1: the programmer learns code
+programmer.learnCode();
+//  action 2: the programmer writes code
+programmer.writeCode();
+//  action 3: the programmer tries various builds
+programmer.tryVariBuilds();
 
 //  8)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
+//  Noun: book
+//  action 1: the book is indexed
+book.getIndex();
+//  action 2: the book is long
+book.getLength();
+//  action 3: the book contains knowledge
+book.impartKnow();
 
 //  9)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
+//  Noun: gate
+//  action 1: the gate opens
+gate.open();
+//  action 2: the gate screeches
+gate.screech();
+//  action 3: the gate locks
+gate.lock();
 
 //  10)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun: mediaPlayer
+//  action 1: the mediaPlayer shuffles songs
+mediaPlayer.shuffleSongs();
+//  action 2: the mediaPlayer repeats albums
+mediaPlayer.repeatAlbum();
+//  action 3: the mediaPlayer adds songs to a playlist
+mediaPlayer.addToPlaylist();
 
 
 #endif
