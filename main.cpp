@@ -52,13 +52,13 @@ arm.rotateCounterClockwise();           // 4) demonstrates CamelCase
 
 
 //  1)
-//  Noun: dog
-//  action 1: the dog barks
-dog.bark();
-//  action 2: the dog sleeps
-dog.sleep();
-//  action 3: the dog runs
-dog.run();
+//  Noun: policeCar
+//  action 1: the policeCar locks its doors
+policeCar.lockDoors();
+//  action 2: the policeCar increases speed
+policeCar.increaseSpeed();
+//  action 3: the policeCar turns on sirens
+policeCar.turnSirenOn();
 
 //  2)
 //  Noun: phone
@@ -115,13 +115,13 @@ programmer.writeCode();
 programmer.tryVariBuilds();
 
 //  8)
-//  Noun: book
-//  action 1: the book is indexed
-book.getIndex();
-//  action 2: the book is long
-book.getLength();
-//  action 3: the book contains knowledge
-book.impartKnow();
+//  Noun: television
+//  action 1: the television turns on
+tv.turnOn();
+//  action 2: the television changes channels
+tv.changeChannel();
+//  action 3: the television mutes
+tv.muteOn();
 
 //  9)
 //  Noun: gate
